@@ -6,4 +6,4 @@ author:
 description: "Personal website"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: thorepet/minima
