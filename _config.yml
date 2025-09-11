@@ -1,0 +1,9 @@
+# Site settings
+title: Thore Petersen
+author:
+  name: Thore Petersen
+  email: thore.petersen@iies.su.se
+description: "Personal website"
+
+# Build settings
+remote_theme: jekyll/minima
