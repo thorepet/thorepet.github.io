@@ -6,3 +6,13 @@ description: "Personal website"
 
 # Build settings
 remote_theme: thorepet/minima
+
+minima:
+  hide_site_feed_link: true
+  social_links:
+    - title: "GitHub"
+      icon: github
+      url: "https://github.com/thorepet"
+    - title: "LinkedIn"
+      icon: linkedin
+      url: "https://www.linkedin.com/in/thore-w-petersen-013b431ba/"
