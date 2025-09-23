@@ -8,7 +8,7 @@ I am a PhD candidate at the [**Institute for International Economic Studies**](h
 
 My research is on macroeconomics, in particular energy use, productivity, and firm dynamics.
 
-You can reach me at `thore.petersen@iies.su.se`.
+You can reach me at `thore.petersen@iies.su.se`
 
 ## Job Market Paper
 

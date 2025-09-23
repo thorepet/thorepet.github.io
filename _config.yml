@@ -1,8 +1,8 @@
 # Site settings
 title: Thore Petersen
 author:
-  name: Thore Petersen
-description: 
+  name: ""
+description: ""
 
 # Build settings
 remote_theme: thorepet/minima
@@ -15,4 +15,4 @@ minima:
       url: "https://github.com/thorepet"
     - title: "LinkedIn"
       icon: linkedin
-      url: "www.linkedin.com/in/thore-petersen-013b431ba"
+      url: "https://www.linkedin.com/in/thore-petersen-013b431ba"
