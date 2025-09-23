@@ -9,6 +9,7 @@ remote_theme: thorepet/minima
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 minima:
   hide_site_feed_link: true
@@ -19,3 +20,6 @@ minima:
     - title: "LinkedIn"
       icon: linkedin
       url: "https://www.linkedin.com/in/thore-petersen-013b431ba"
+
+webmaster_verifications:
+  google: "JVnsggqGAq2kIBaZ3VkWwROgWOb9-oi02x0gEdfCPm0"
