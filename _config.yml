@@ -7,6 +7,9 @@ description: ""
 # Build settings
 remote_theme: thorepet/minima
 
+plugins:
+  - jekyll-sitemap
+
 minima:
   hide_site_feed_link: true
   social_links:
